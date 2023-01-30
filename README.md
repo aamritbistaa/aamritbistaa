@@ -17,7 +17,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently learning **Mern Stack**<br>👯 I’m looking to collaborate on **Full Stack**<br>👨‍💻 All of my projects are available at [bistaamrit.com](https://bistaamrit.com.np/)
+🔭 I’m currently learning **Mern Stack**<br>👯 I’m looking to collaborate on **Web Dev**<br>👨‍💻 All of my projects are available at [bistaamrit.com](https://bistaamrit.com.np/)
   
 
   
