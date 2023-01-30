@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/amrit-bista-4537a1233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit-bista-4537a1233" height="30" width="40" /></a>
 <a href="https://instagram.com/aamritbistaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aamritbistaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aamritbistaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aamritbistaa" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/ucyvt9mqj9bmlyplmvnv8sxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyvt9mqj9bmlyplmvnv8sxw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCYvt9mqJ9BMLyPLMVNV8sxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyvt9mqj9bmlyplmvnv8sxw" height="30" width="40" /></a>
 </p>
 
 
@@ -34,13 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamritbistaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aamritbistaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-  
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
